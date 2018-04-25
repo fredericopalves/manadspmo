@@ -30,7 +30,9 @@
      inkscape:cx="319.42039"
      inkscape:cy="453.3437"
      inkscape:document-units="mm"
+
      inkscape:current-layer="layer3"
+
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1028"
@@ -97,7 +99,9 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 1"
+
      style="display:inline"
+
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:#90dcf6;fill-opacity:1;stroke:none;stroke-width:0.67534357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -328,7 +332,9 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Laver 2"
+
      style="display:inline">
+
     <rect
        style="display:inline;fill:none;fill-opacity:0.46408841;stroke:#3e8b8b;stroke-width:0.44979167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5553-4"
