@@ -1,0 +1,34 @@
+.l1-bigArrow{
+fill: #881427;
+fill-opacity:1;
+stroke:#3e8b8b;
+stroke-width:0.67534357px;
+
+}
+
+
+a.l2-clickableBox:hover{
+    stroke: '#1f95b8';
+    stroke-width:1;
+
+}
+
+rect:hover{
+    stroke: '#1f95b8';
+    stroke-width:1;
+    
+}
+
+.propsCphase{
+    fill:#1f95b8;
+    fill-opacity:1;
+    stroke:#ffffff;
+    stroke-width:0.26458001;
+    stroke-opacity:1;
+}
+
+propsCphase:hover
+{
+    stroke:'#881427'; 
+    stroke-width:1;
+}
