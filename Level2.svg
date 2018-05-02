@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1426.5634"
-   height="690.77783"
-   viewBox="0 0 377.44013 182.766"
+   width="821"
+   height="397.54886"
+   viewBox="0 0 217.22018 105.18348"
    version="1.1"
    id="svg322"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.82"
-     inkscape:cx="607.25725"
-     inkscape:cy="452.15335"
+     inkscape:zoom="1.01"
+     inkscape:cx="304.4756"
+     inkscape:cy="201.40278"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -49,8 +49,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid130"
-       originx="-14.53515"
-       originy="-28.110146" />
+       originx="-94.64512"
+       originy="-66.901412" />
   </sodipodi:namedview>
   <metadata
      id="metadata319">
@@ -68,14 +68,35 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-14.53515,-86.121216)" />
+     transform="translate(-94.64512,-124.91248)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="PROPS-C"
-     transform="translate(-14.53515,-0.78785921)">
+     transform="translate(-94.64512,-39.579121)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1350"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion1352"><rect
+           id="rect1354"
+           width="0"
+           height="40"
+           x="1740"
+           y="520" /></flowRegion><flowPara
+         id="flowPara1356" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64437342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
+       x="328.07919"
+       y="100.5404"
+       id="text6556"><tspan
+         sodipodi:role="line"
+         id="tspan6554"
+         x="328.07919"
+         y="105.68993"
+         style="stroke-width:0.26458001" /></text>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4963"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/SDP.aspx"
        style="stroke:#df6e20;stroke-opacity:1">
@@ -112,7 +133,7 @@
       </g>
     </a>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4956"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/SDP.aspx"
        style="stroke:#df6e20;stroke-opacity:1">
@@ -151,7 +172,7 @@
       </g>
     </a>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4949"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/SDP.aspx"
        style="stroke:#df6e20;stroke-opacity:1">
@@ -186,7 +207,7 @@
       </g>
     </a>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4942"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/SDP.aspx"
        style="stroke:#df6e20;stroke-opacity:1">
@@ -224,41 +245,32 @@
       </g>
     </a>
     <rect
-       style="fill:#f9d6a6;fill-opacity:0.45490196;stroke:#f9d6a6;stroke-width:0.79373997;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f9d6a6;fill-opacity:0.45490196;stroke:#f9d6a6;stroke-width:0.45680448;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2284-7"
-       width="179.89728"
-       height="71.021484"
-       x="211.68112"
-       y="71.851707" />
+       width="103.5325"
+       height="40.873505"
+       x="208.1044"
+       y="80.477005" />
     <rect
-       style="fill:#f9d6a6;fill-opacity:0.74879228;stroke:#f9d6a6;stroke-width:0.79373997;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99516913"
+       style="fill:#f9d6a6;fill-opacity:0.74879228;stroke:#f9d6a6;stroke-width:0.45680448;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99516913"
        id="rect2284-5"
-       width="132.26031"
-       height="35.319038"
-       x="254.02649"
-       y="81.083611" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1350"
-       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion1352"><rect
-           id="rect1354"
-           width="0"
-           height="40"
-           x="1740"
-           y="520" /></flowRegion><flowPara
-         id="flowPara1356" /></flowRoot>    <rect
-       style="fill:#f9d6a6;fill-opacity:0.45410629;stroke:#f9d6a6;stroke-width:0.79373997;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       width="76.116997"
+       height="20.326424"
+       x="232.47453"
+       y="85.790047" />
+    <rect
+       style="fill:#f9d6a6;fill-opacity:0.45410629;stroke:#f9d6a6;stroke-width:0.45680448;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2284"
-       width="174.60568"
-       height="60.751366"
-       x="79.018051"
-       y="87.413429" />
+       width="100.48714"
+       height="34.962955"
+       x="131.75562"
+       y="89.432915" />
     <a
        id="a6695"
        xlink:href="https://ericsson.sharepoint.com/sites/ericsson_csi_portal/Methodology/Pages/System-Integration-Delivery.aspx"
        target="_blank"
-       style="fill:#df6e20;fill-opacity:0.49758456;stroke:#df6e20;stroke-opacity:1"><rect
+       style="fill:#df6e20;fill-opacity:0.49758456;stroke:#df6e20;stroke-opacity:1"
+       transform="matrix(0.57550899,0,0,0.57550899,86.28001,39.125701)"><rect
    y="90.281166"
    x="259.28839"
    height="20.84243"
@@ -269,13 +281,15 @@
    onmouseout="this.style.stroke='none'" />
 
 
+
  /&gt;
     </a>
     <a
        id="a6704"
        xlink:href="https://ericsson.sharepoint.com/sites/ericsson_csi_portal/Methodology/Pages/Lite-Path.aspx"
        target="_blank"
-       style="fill:#f9d6a6;fill-opacity:1;stroke:none;stroke-width:0.79373997;stroke-miterlimit:4;stroke-dasharray:none">
+       style="fill:#f9d6a6;fill-opacity:1;stroke:none;stroke-width:0.79373997;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.57550899,0,0,0.57550899,86.28001,39.125701)">
       <rect
          y="154.03386"
          x="79.217735"
@@ -290,7 +304,8 @@
        id="a6707"
        xlink:href="https://ericsson.sharepoint.com/sites/ericsson_csi_portal/Methodology/Pages/Lite-Path.aspx"
        target="_blank"
-       style="fill:#f9d6a6;fill-opacity:0.45490196;stroke:#f9d6a6;stroke-width:0.79373997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="fill:#f9d6a6;fill-opacity:0.45490196;stroke:#f9d6a6;stroke-width:0.79373997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.57550899,0,0,0.57550899,86.28001,39.125701)">
       <rect
          y="149.9899"
          x="217.89586"
@@ -303,53 +318,54 @@
     </a>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.69983959px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="111.83035"
-       y="117.0076"
+       style="font-style:normal;font-weight:normal;font-size:7.30887175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15226817"
+       x="150.63939"
+       y="106.46462"
        id="text2308"><tspan
          sodipodi:role="line"
          id="tspan2306"
-         x="111.83035"
-         y="117.0076"
-         style="font-size:12.69983959px;stroke-width:0.26458001">Solutioning </tspan></text>
+         x="150.63939"
+         y="106.46462"
+         style="font-size:7.30887175px;stroke-width:0.15226817">Solutioning </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.69983959px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="228.96468"
-       y="132.10295"
+       style="font-style:normal;font-weight:normal;font-size:7.30887175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15226817"
+       x="218.05124"
+       y="115.15214"
        id="text2308-5"><tspan
          sodipodi:role="line"
          id="tspan2306-2"
-         x="228.96468"
-         y="132.10295"
-         style="font-size:12.69983959px;stroke-width:0.26458001">Delivery </tspan></text>
+         x="218.05124"
+         y="115.15214"
+         style="font-size:7.30887175px;stroke-width:0.15226817">Delivery </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46656036px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="98.762222"
-       y="171.64296"
+       style="font-style:normal;font-weight:normal;font-size:4.87258148px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15226817"
+       x="143.11856"
+       y="137.90776"
        id="text2308-58"><tspan
          sodipodi:role="line"
          id="tspan2306-23"
-         x="98.762222"
-         y="171.64296"
-         style="font-size:8.46656036px;stroke-width:0.26458001">Lite Path Solutioning </tspan></text>
+         x="143.11856"
+         y="137.90776"
+         style="font-size:4.87258148px;stroke-width:0.15226817">Lite Path Solutioning </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46656036px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="269.89026"
-       y="167.27684"
+       style="font-style:normal;font-weight:normal;font-size:4.87258148px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15226817"
+       x="241.60428"
+       y="135.39502"
        id="text2308-58-5"><tspan
          sodipodi:role="line"
          id="tspan2306-23-6"
-         x="269.89026"
-         y="167.27684"
-         style="font-size:8.46656036px;stroke-width:0.26458001">Lite Path Delivery</tspan></text>
+         x="241.60428"
+         y="135.39502"
+         style="font-size:4.87258148px;stroke-width:0.15226817">Lite Path Delivery</tspan></text>
     <a
        id="a6698"
        xlink:href="https://ericsson.sharepoint.com/sites/ericsson_csi_portal/Methodology/Pages/System-Integration-Delivery.aspx#AGILE"
        target="_blank"
-       style="fill:#df6e20;fill-opacity:0.49803922;stroke:#df6e20;stroke-opacity:1">
+       style="fill:#df6e20;fill-opacity:0.49803922;stroke:#df6e20;stroke-opacity:1"
+       transform="matrix(0.57550899,0,0,0.57550899,86.28001,39.125701)">
       <rect
          y="90.281166"
          x="306.91281"
@@ -364,7 +380,8 @@
        id="a6701"
        xlink:href="https://ericsson.sharepoint.com/sites/ericsson_csi_portal/Methodology/Pages/System-Integration-Delivery.aspx#DIGITAL_TRANSFORMATION"
        target="_blank"
-       style="fill:#df6e20;fill-opacity:0.49803922;stroke:#df6e20;stroke-opacity:1">
+       style="fill:#df6e20;fill-opacity:0.49803922;stroke:#df6e20;stroke-opacity:1"
+       transform="matrix(0.57550899,0,0,0.57550899,86.28001,39.125701)">
       <rect
          y="89.957199"
          x="347.12891"
@@ -377,96 +394,85 @@
     </a>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.3499198px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="279.70508"
-       y="98.953224"
+       style="font-style:normal;font-weight:normal;font-size:3.65443587px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15226817"
+       x="247.25279"
+       y="96.074173"
        id="text2308-5-0"><tspan
          sodipodi:role="line"
          id="tspan2306-2-5"
-         x="279.70508"
-         y="98.953224"
-         style="font-size:6.3499198px;text-align:center;text-anchor:middle;stroke-width:0.26458001">D1</tspan><tspan
+         x="247.25279"
+         y="96.074173"
+         style="font-size:3.65443587px;text-align:center;text-anchor:middle;stroke-width:0.15226817">D1</tspan><tspan
          sodipodi:role="line"
-         x="280.82129"
-         y="106.89062"
-         style="font-size:6.3499198px;text-align:center;text-anchor:middle;stroke-width:0.26458001"
+         x="247.89517"
+         y="100.64222"
+         style="font-size:3.65443587px;text-align:center;text-anchor:middle;stroke-width:0.15226817"
          id="tspan6531">V Model </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.3499198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="365.65689"
-       y="87.470268"
+       style="font-style:normal;font-weight:normal;font-size:3.65443587px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15226817"
+       x="296.71884"
+       y="89.46563"
        id="text2308-5-0-1"><tspan
          sodipodi:role="line"
          id="tspan2306-2-5-5"
-         x="365.65689"
-         y="87.470268"
-         style="font-size:6.3499198px;stroke-width:0.26458001">ISDF </tspan></text>
+         x="296.71884"
+         y="89.46563"
+         style="font-size:3.65443587px;stroke-width:0.15226817">ISDF </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23328018px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="365.25464"
-       y="98.653313"
+       style="font-style:normal;font-weight:normal;font-size:2.43629074px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15226817"
+       x="296.48734"
+       y="95.901566"
        id="text2308-5-0-7"><tspan
          sodipodi:role="line"
          id="tspan2306-2-5-59"
-         x="365.25464"
-         y="98.653313"
-         style="font-size:4.23328018px;text-align:center;text-anchor:middle;stroke-width:0.26458001">D3</tspan><tspan
+         x="296.48734"
+         y="95.901566"
+         style="font-size:2.43629074px;text-align:center;text-anchor:middle;stroke-width:0.15226817">D3</tspan><tspan
          sodipodi:role="line"
-         x="365.25464"
-         y="103.94492"
-         style="font-size:4.23328018px;text-align:center;text-anchor:middle;stroke-width:0.26458001"
+         x="296.48734"
+         y="98.94693"
+         style="font-size:2.43629074px;text-align:center;text-anchor:middle;stroke-width:0.15226817"
          id="tspan6531-0">Transformation</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.64437342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="328.07919"
-       y="100.5404"
-       id="text6556"><tspan
-         sodipodi:role="line"
-         id="tspan6554"
-         x="328.07919"
-         y="105.68993"
-         style="stroke-width:0.26458001" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.3499198px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="324.23679"
-       y="98.752785"
+       style="font-style:normal;font-weight:normal;font-size:3.65443587px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15226817"
+       x="272.8812"
+       y="95.958817"
        id="text2308-5-0-7-7"><tspan
          sodipodi:role="line"
          id="tspan2306-2-5-59-0"
-         x="324.23679"
-         y="98.752785"
-         style="font-size:6.3499198px;text-align:center;text-anchor:middle;stroke-width:0.26458001">D2</tspan><tspan
+         x="272.8812"
+         y="95.958817"
+         style="font-size:3.65443587px;text-align:center;text-anchor:middle;stroke-width:0.15226817">D2</tspan><tspan
          sodipodi:role="line"
-         x="324.23679"
-         y="106.69019"
-         style="font-size:6.3499198px;text-align:center;text-anchor:middle;stroke-width:0.26458001"
+         x="272.8812"
+         y="100.52686"
+         style="font-size:3.65443587px;text-align:center;text-anchor:middle;stroke-width:0.15226817"
          id="tspan6531-0-5">Agile</tspan></text>
     <rect
-       style="fill:#df6e20;fill-opacity:0.49803922;stroke:#df6e20;stroke-width:0.26540837;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#df6e20;fill-opacity:0.49803922;stroke:#df6e20;stroke-width:0.1527449;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2286-4-1"
        onmouseover="this.style.stroke='#1f95b8'; this.style['stroke-width']=1;"
        onmouseout="this.style.stroke='none'"
-       width="95.248833"
-       height="15.874793"
-       x="285.7464"
-       y="121.7068" />
+       width="54.816559"
+       height="9.1360865"
+       x="250.72963"
+       y="109.16906" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.3499198px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458001"
-       x="333.72275"
-       y="131.40363"
+       style="font-style:normal;font-weight:normal;font-size:3.65443587px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15226817"
+       x="278.34045"
+       y="114.74967"
        id="text2308-5-0-78"><tspan
          sodipodi:role="line"
-         x="334.83896"
-         y="131.40363"
-         style="font-size:6.3499198px;text-align:center;text-anchor:middle;stroke-width:0.26458001"
+         x="278.98285"
+         y="114.74967"
+         style="font-size:3.65443587px;text-align:center;text-anchor:middle;stroke-width:0.15226817"
          id="tspan6531-8">ESAM </tspan></text>
     <a
-       transform="matrix(0.8709487,0,0,0.68285087,55.719175,-52.1342)"
+       transform="matrix(0.50123881,0,0,0.39298681,118.3469,9.1220002)"
        id="a5161"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.tg1-all-checklist.php"
        style="fill:#df6e20;fill-opacity:1">
@@ -482,7 +488,7 @@
          style="fill:#df6e20;fill-opacity:1;stroke:none;stroke-width:0.18520601;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.8709487,0,0,0.68285087,104.58832,-52.1342)"
+       transform="matrix(0.50123881,0,0,0.39298681,146.47153,9.1220002)"
        id="a5164"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.tg2-all-checklist.php"
        style="fill:#df6e20;fill-opacity:1">
@@ -498,7 +504,7 @@
          style="fill:#df6e20;fill-opacity:1;stroke:none;stroke-width:0.18520601;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.8709487,0,0,0.68285087,91.245166,-52.1342)"
+       transform="matrix(0.50123881,0,0,0.39298681,138.79242,9.1220002)"
        id="a5167"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.tg3-all-checklist.php"
        style="fill:#df6e20;fill-opacity:1">
@@ -514,7 +520,7 @@
          style="fill:#df6e20;fill-opacity:1;stroke:none;stroke-width:0.18520601;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.8709487,0,0,0.68285087,77.328488,-52.1342)"
+       transform="matrix(0.50123881,0,0,0.39298681,130.78325,9.1220002)"
        id="a5170"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.tg4-all-checklist.php"
        style="fill:#df6e20;fill-opacity:1">
@@ -530,7 +536,7 @@
          style="fill:#df6e20;fill-opacity:1;stroke:none;stroke-width:0.18520601;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.8709487,0,0,0.68285087,62.977536,-52.13421)"
+       transform="matrix(0.50123881,0,0,0.39298681,122.52415,9.1219945)"
        id="a5173"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.tg5-all-checklist.php"
        style="fill:#df6e20;fill-opacity:1">
@@ -546,7 +552,7 @@
          style="fill:#df6e20;fill-opacity:1;stroke:none;stroke-width:0.18520601;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.73683162,0,0,0.68356799,65.426473,-52.1204)"
+       transform="matrix(0.42405322,0,0,0.39339952,123.93353,9.1299422)"
        id="a5104"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.phaseanal-all-checklist.php">
       <rect
@@ -560,7 +566,7 @@
          style="fill:#1f95b8;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458001;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(1.6835952,0,0,0.68285087,-5.323895,-51.99017)"
+       transform="matrix(0.96892417,0,0,0.39298681,83.216061,9.2048908)"
        id="a5107"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.phaseplan-all-checklist.php">
       <rect
@@ -574,7 +580,7 @@
          style="fill:#1f95b8;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458001;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.63870647,0,0,0.68285087,136.12404,-52.18704)"
+       transform="matrix(0.36758132,0,0,0.39298681,164.62062,9.0915903)"
        id="a5143"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.phaseest-all-checklist.php">
       <rect
@@ -588,7 +594,7 @@
          style="fill:#1f95b8;fill-opacity:1;stroke:#ffffff;stroke-width:0.19878902;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.64066859,0,0,0.68285087,135.7828,-52.18704)"
+       transform="matrix(0.36871053,0,0,0.39298681,164.42423,9.0915903)"
        id="a5146"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.phasereal-all-checklist.php">
       <rect
@@ -602,7 +608,7 @@
          style="fill:#1f95b8;fill-opacity:1;stroke:#ffffff;stroke-width:0.19878902;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.64068613,0,0,0.68285087,135.81994,-51.97994)"
+       transform="matrix(0.36872063,0,0,0.39298681,164.44561,9.2107782)"
        id="a5149"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.phasehand-all-checklist.php">
       <rect
@@ -616,7 +622,7 @@
          style="fill:#1f95b8;fill-opacity:1;stroke:#ffffff;stroke-width:0.20044914;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.8709487,0,0,0.68285087,63.001396,-52.02156)"
+       transform="matrix(0.50123881,0,0,0.39298681,122.53788,9.1868255)"
        id="a5152"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.phaseconc-all-checklist.php">
       <rect
@@ -630,7 +636,7 @@
          style="fill:#1f95b8;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458001;stroke-opacity:1" />
     </a>
     <a
-       transform="matrix(0.8709487,0,0,0.68285087,62.785237,-52.1342)"
+       transform="matrix(0.50123881,0,0,0.39298681,122.41348,9.1220002)"
        id="a5158"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.tg0-all-checklist.php"
        style="fill:#df6e20;fill-opacity:1;stroke:#df6e20;stroke-opacity:1">
@@ -647,138 +653,138 @@
     </a>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="67.21241"
-       y="42.172409"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="119.16328"
+       y="66.214996"
        id="text4938-2"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-90"
-         x="67.21241"
-         y="42.172409"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">TG 0</tspan></text>
+         x="119.16328"
+         y="66.214996"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">TG 0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="109.77967"
-       y="42.172409"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="143.66112"
+       y="66.214996"
        id="text4938-0-0"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-5-2"
-         x="109.77967"
-         y="42.172409"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">TG 1</tspan></text>
+         x="143.66112"
+         y="66.214996"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">TG 1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="204.08725"
-       y="42.173225"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="197.93597"
+       y="66.215462"
        id="text4938-5-3"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-2-6"
-         x="204.08725"
-         y="42.173225"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">TG 2</tspan></text>
+         x="197.93597"
+         y="66.215462"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">TG 2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="240.74243"
-       y="42.172409"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="219.03137"
+       y="66.214996"
        id="text4938-4-0"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-9-4"
-         x="240.74243"
-         y="42.172409"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">TG 3</tspan></text>
+         x="219.03137"
+         y="66.214996"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">TG 3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="276.54492"
-       y="42.172409"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="239.63602"
+       y="66.214996"
        id="text4938-7-8"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-3-7"
-         x="276.54492"
-         y="42.172409"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">TG 4</tspan></text>
+         x="239.63602"
+         y="66.214996"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">TG 4</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="311.40454"
-       y="42.171558"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="259.69806"
+       y="66.214508"
        id="text4938-9-3"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-53-3"
-         x="311.40454"
-         y="42.171558"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">TG 5</tspan></text>
+         x="259.69806"
+         y="66.214508"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">TG 5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="74.132462"
-       y="59.935658"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="123.14583"
+       y="76.437904"
        id="text4938-01-31"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
-         x="74.132462"
-         y="59.935658"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
+         x="123.14583"
+         y="76.437904"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
          id="tspan5281-7">PROJECT ANALYSIS PHASE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="137.2251"
-       y="61.252911"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="159.45621"
+       y="77.195999"
        id="text4938-01-3-13"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-35-6-32"
-         x="137.2251"
-         y="61.252911"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">PROJECT PLANNING PHASE</tspan></text>
+         x="159.45621"
+         y="77.195999"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">PROJECT PLANNING PHASE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="213.38676"
-       y="65.304893"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="203.28793"
+       y="79.527946"
        id="text4938-01-3-1-6"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-35-6-3-0"
-         x="213.38676"
-         y="65.304893"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">ESTABLISHMENT</tspan></text>
+         x="203.28793"
+         y="79.527946"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">ESTABLISHMENT</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="248.18173"
-       y="62.845329"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="223.31274"
+       y="78.11245"
        id="text4938-01-3-0-3"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-35-6-96-5"
-         x="248.18173"
-         y="62.845329"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">REALIZATION</tspan></text>
+         x="223.31274"
+         y="78.11245"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">REALIZATION</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="318.81558"
-       y="60.166458"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="263.96317"
+       y="76.570732"
        id="text4938-01-3-5-9"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-35-6-2-6"
-         x="318.81558"
-         y="60.166458"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">PROJECT CONCLUSION PHASE</tspan></text>
+         x="263.96317"
+         y="76.570732"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">PROJECT CONCLUSION PHASE</tspan></text>
     <a
-       transform="matrix(0.64216363,0,0,0.68486144,135.20677,-52.30504)"
+       transform="matrix(0.36957094,0,0,0.39414392,164.09272,9.0236803)"
        id="a5155"
        xlink:href="https://xlpm-online.com/en/pj/x.pj.act.phasereal-all-checklist.php">
       <rect
@@ -794,30 +800,30 @@
     </a>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="259.73386"
-       y="54.094379"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="229.96111"
+       y="73.076195"
        id="text4938-01-3-9-6"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-35-6-9-8"
-         x="259.73386"
-         y="54.094379"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">PROJECT EXECTION PHASE</tspan></text>
+         x="229.96111"
+         y="73.076195"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">PROJECT EXECTION PHASE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1"
-       x="285.70609"
-       y="64.917641"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1"
+       x="244.90836"
+       y="79.305084"
        id="text4938-01-3-0-5-4"
        transform="scale(1.072042,0.93279928)"><tspan
          sodipodi:role="line"
          id="tspan4936-35-6-96-9-6"
-         x="285.70609"
-         y="64.917641"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43920302px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21495019;stroke-opacity:1">HANDOVER</tspan></text>
+         x="244.90836"
+         y="79.305084"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.97929227px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12370577;stroke-opacity:1">HANDOVER</tspan></text>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4900"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/Qualify-Lead.aspx">
       <g
@@ -853,7 +859,7 @@
       </g>
     </a>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4908"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/Nurture-Lead.aspx"
        style="stroke:none">
@@ -887,7 +893,7 @@
       </g>
     </a>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4915"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/Qualify-Opportunity.aspx"
        style="stroke:none">
@@ -921,7 +927,7 @@
       </g>
     </a>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4929"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/Create-Proposal.aspx"
        style="stroke:none">
@@ -955,7 +961,7 @@
       </g>
     </a>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4922"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/Negotiate-and-Close.aspx"
        style="stroke:none">
@@ -989,7 +995,7 @@
       </g>
     </a>
     <a
-       transform="translate(4.6602452,-2.618216)"
+       transform="matrix(0.57550899,0,0,0.57550899,88.962023,37.618894)"
        id="a4936"
        xlink:href="https://ericsson.sharepoint.com/sites/Sales_Process_Tool/Pages/Execute-Deal.aspx"
        style="stroke:none">
