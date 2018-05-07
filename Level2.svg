@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="304.4756"
-     inkscape:cy="201.40278"
+     inkscape:cx="126.75283"
+     inkscape:cy="379.95884"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -244,13 +244,20 @@
              style="font-size:3.52773333px;fill:none;stroke:#df6e20;stroke-width:0.26458001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">SDP0</tspan></text>
       </g>
     </a>
-    <rect
-       style="fill:#f9d6a6;fill-opacity:0.45490196;stroke:#f9d6a6;stroke-width:0.45680448;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2284-7"
-       width="103.5325"
-       height="40.873505"
-       x="208.1044"
-       y="80.477005" />
+    <a
+       id="a4841"
+       target="_blank"
+       xlink:href="https://ericsson.sharepoint.com/sites/ericsson_csi_portal/Methodology/Pages/System-Integration-Delivery.aspx ">
+      <rect
+         onmouseout="this.style.stroke='none'"
+         onmouseover="this.style.stroke='#1f95b8'; this.style['stroke-width']=1;"
+         y="80.477005"
+         x="208.1044"
+         height="40.873505"
+         width="103.5325"
+         id="rect2284-7"
+         style="fill:#f9d6a6;fill-opacity:0.45490196;stroke:#f9d6a6;stroke-width:0.45680448;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </a>
     <rect
        style="fill:#f9d6a6;fill-opacity:0.74879228;stroke:#f9d6a6;stroke-width:0.45680448;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99516913"
        id="rect2284-5"
@@ -258,13 +265,22 @@
        height="20.326424"
        x="232.47453"
        y="85.790047" />
-    <rect
-       style="fill:#f9d6a6;fill-opacity:0.45410629;stroke:#f9d6a6;stroke-width:0.45680448;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2284"
-       width="100.48714"
-       height="34.962955"
-       x="131.75562"
-       y="89.432915" />
+    <a
+       id="a1135"
+       target="_blank"
+       xlink:href="https://ericsson.sharepoint.com/sites/ericsson_csi_portal/Methodology/Pages/Solutioning.aspx "
+       onmouseover="this.style.stroke='#1f95b8'; this.style['stroke-width']=1;"
+       onmouseout="this.style.stroke='none'">
+      <rect
+         y="89.432915"
+         x="131.75562"
+         height="34.962955"
+         width="100.48714"
+         id="rect2284"
+         style="fill:#f9d6a6;fill-opacity:0.45410629;stroke:#f9d6a6;stroke-width:0.45680448;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         onmouseout="this.style.stroke='none'"
+         onmouseover="this.style.stroke='#1f95b8'; this.style['stroke-width']=1;" />
+    </a>
     <a
        id="a6695"
        xlink:href="https://ericsson.sharepoint.com/sites/ericsson_csi_portal/Methodology/Pages/System-Integration-Delivery.aspx"
@@ -279,6 +295,7 @@
    style="fill:#df6e20;fill-opacity:0.49758456;stroke:#df6e20;stroke-width:0.20204031;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    onmouseover="this.style.stroke='#1f95b8'; this.style['stroke-width']=1;"
    onmouseout="this.style.stroke='none'" />
+
 
 
 
